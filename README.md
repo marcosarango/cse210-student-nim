@@ -34,4 +34,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your name and email here
+Marco Sarango sar21005@byui.edu
